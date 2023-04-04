@@ -1,0 +1,11 @@
+.btn-brightpink {
+	background-color: #EE4C7C ;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-brightpink:hover {
+	background-color: #9A1750;
+}
